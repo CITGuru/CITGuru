@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some things you need to know about me
+Here are some things you need to know about me:
 
 - 🔭 I’m currently working on Blockchain and Finance Technologies
 - 🌱 I’m currently learning Web Accessibility and Blockchain
