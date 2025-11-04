@@ -2,12 +2,10 @@
 
 Here are some things you need to know about me:
 
-- 🔭 I’m currently working on Blockchain and Financial Infrastructure -  [Bitpowr](https://bitpowr.com)
-- 🌱 I’m currently learning Sales Engineer
-- 👯 I’m looking to collaborate on Python, Rust and Go Open Source Projects
-- 🤔 I’m looking for help with how to make multiple streams of income
-- 💬 Ask me about Python, CLI, Web Scraping, Django and so many others.
-- 📫 How to reach me: oyetoketoby80@gmail.com, Skype - oyetoketobi
-- 😄 Pronouns: Me
-- ⚡ Fun fact: I love anime.
+I specialize in building and driving mission-critical systems across fintech, payments, and data infrastructure. From architecting modular financial platforms to solving complex data orchestration challenges, I’ve led the development of scalable solutions that power digital finance at scale. 
 
+My work is driven by a deep focus on reliability, security, and innovation—turning technical complexity into real-world financial impact.
+
+I led Bitpowr from inception to processing over $1 billion in transaction volume, powering financial operations for businesses across the digital asset ecosystem.
+
+Now I am working on Knowledge Layer for AI Agents
