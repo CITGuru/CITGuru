@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 Here are some things you need to know about me:
 
@@ -8,4 +8,6 @@ My work is driven by a deep focus on reliability, security, and innovation—tur
 
 I led Bitpowr from inception to processing over $1 billion in transaction volume, powering financial operations for businesses across the digital asset ecosystem.
 
-Now I am working on Knowledge Layer for AI Agents
+Built and exited Mielto — a memory + context infrastructure layer for AI agents, enabling persistent state, knowledge graphs, and reasoning over time. Now Mielto Konwledge graph is used to hunt and find fraud for banks.
+
+Now my focus is building the best graph and data warehouse for agents to carry out work - like finding fraud
