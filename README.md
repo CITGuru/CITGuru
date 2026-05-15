@@ -10,4 +10,12 @@ I led Bitpowr from inception to processing over $1 billion in transaction volume
 
 Built and exited Mielto — a memory + context infrastructure layer for AI agents, enabling persistent state, knowledge graphs, and reasoning over time. Now Mielto Konwledge graph is used to hunt and find fraud for banks.
 
-Now my focus is building the best graph and data warehouse for agents to carry out work - like finding fraud
+Now my focus is building the best graph and data warehouse for agents to carry out work - like finding fraud.
+
+Below are some opensource projects I am actively working on:
+
+1. Openduck - https://github.com/citguru/openduck
+2. Melt - https://github.com/citguru/melt
+3. Pawrly - https://github.com/citguru/pawrly
+
+
