@@ -17,5 +17,6 @@ Below are some opensource projects I am actively working on:
 1. Openduck - https://github.com/citguru/openduck
 2. Melt - https://github.com/citguru/melt
 3. Pawrly - https://github.com/citguru/pawrly
+3. Clave - https://github.com/citguru/clave
 
 
